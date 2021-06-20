@@ -2,7 +2,7 @@
 - 👀 I’m interested in projects of web developed or design.
 - 🌱 I’m currently learning full stack developer with java especialization.
 - 💞️ I’m looking to collaborate on cool projects with innovation and promise future.
-- 📫 How to reach me --> instagram: @carlinibarrola
+- 📫 How to reach me --> carlos.ibarrola@usal.edu.ar
 
 <!---
 carlosibarrola/carlosibarrola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
