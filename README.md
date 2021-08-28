@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosibarrola
-- 👀 I’m interested in projects of web developed or design.
-- 🌱 I’m currently learning full stack developer with java especialization.
-- 💞️ I’m looking to collaborate on cool projects with innovation and promise future.
+- 👀 I’m interested in reverse engineering.
+- 🌱 I’m currently working as a Front-end developer.
+- 💞️ I love the programming but i love money the most.
 - 📫 How to reach me --> https://www.linkedin.com/in/carlos-ibarrola/
 
 <!---
