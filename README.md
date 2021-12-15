@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosibarrola
-- 👀 I’m interested in reverse engineering.
-- 🌱 I’m currently working as a Front-end developer.
+- 👀 I’m interested in software engineering, security and crypto world.
+- 🌱 I’m currently specialized in Front-end developer.
 - 💞️ I love the programming!
 - 📫 How to reach me --> https://www.linkedin.com/in/carlos-ibarrola/
 
